@@ -1,6 +1,10 @@
 # mathocr
 
+![Uploading image.png…]()
+
+
 Math OCR 이미지를 LaTeX로 변환하고, 변환된 수식을 MathLive 편집기에서 바로 수정할 수 있는 간단한 FastAPI 웹 앱입니다.
+
 
 ## 기능
 
